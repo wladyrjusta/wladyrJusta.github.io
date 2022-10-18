@@ -41,9 +41,9 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 - Este projeto é individual
 
-- Serão `1` dias de projeto.
+- Será `1` dia de projeto.
 
-- Data para entrega final do projeto: `26/10/2022 14:00`.
+- Data limite para entrega do projeto: `26/10/2022 14:00`.
 
 </details>
 
