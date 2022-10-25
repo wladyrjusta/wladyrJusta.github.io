@@ -66,6 +66,8 @@ margin-left: 60px;
     text-align: left;
     font-size: 19px;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+   color: rgb(12, 46, 12);
     
  }
 
@@ -78,21 +80,28 @@ margin-left: 60px;
     font-size: 17px;
     font-size: 19px;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+   color: rgb(12, 46, 12);
  }
 
  #artigo {
-    width: 45%;
-    height: 70px;
-    position: absolute;
-    margin-top: 05px;
-    left: 20px;
-    top: 660px;
     font-size: 20px;
     text-align: justify;
     height: 110px;
     display: block;
     font-size: 19px;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+   color: rgb(12, 46, 12);
+ }
+
+ .lado-direito {
+   width: 50%;
+    height: 70px;
+    position: absolute;
+    margin-top: 05px;
+    left: 20px;
+    top: 675px;
  }
 
  #tabela {
@@ -103,23 +112,37 @@ margin-left: 60px;
    width: 45%;
    font-size: 19px;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+   color: rgb(12, 46, 12);
 
  }
 
  #lateral {
-    width: 45%;
+    
+    font-size: 20px;
+    text-align: justify;
+    border-style: ridge;
+    font-size: 19px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+   color: rgb(12, 46, 12);
+ }
+
+ .lado-esquerdo {
+   width: 45%;
     padding: 15px;
     position:absolute;
     top: 450px;
     right: 50px;
-    font-size: 20px;
-    text-align: justify;
-    border-style: ridge;
  }
 
  #rodape {
    position: relative;
    width: 100%;
    top: 800px;
+   font-size: 19px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 25px;
+   color: black;
  }
 
