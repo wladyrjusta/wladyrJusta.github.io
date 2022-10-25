@@ -85,64 +85,65 @@ margin-left: 60px;
  }
 
  #artigo {
-    font-size: 20px;
-    text-align: justify;
-    height: 110px;
-    display: block;
-    font-size: 19px;
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   line-height: 25px;
-   color: rgb(12, 46, 12);
- }
-
- .lado-direito {
-   width: 50%;
-    height: 70px;
-    position: absolute;
-    margin-top: 05px;
-    left: 20px;
-    top: 675px;
- }
-
- #tabela {
-   position: absolute;
-   display: block;
-   right: 10px;
-   top: 680px;
-   width: 45%;
-   font-size: 19px;
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   line-height: 25px;
-   color: rgb(12, 46, 12);
-
- }
-
- #lateral {
-    
-    font-size: 20px;
-    text-align: justify;
-    border-style: ridge;
-    font-size: 19px;
-   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   line-height: 25px;
-   color: rgb(12, 46, 12);
+  font-size: 20px;
+  text-align: justify;
+  height: 110px;
+  font-size: 19px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 25px;
+  color: rgb(12, 46, 12);
  }
 
  .lado-esquerdo {
-   width: 45%;
-    padding: 15px;
-    position:absolute;
-    top: 450px;
-    right: 50px;
+  position: absolute;
+  display: block;
+  width: 50%;
+  height: 70px;
+  position: absolute;
+  top: 690px;
+  left: 20px;
+ }
+
+ #tabela {
+  position: absolute;
+  display: block;
+  right: 10px;
+  top: 200px;
+  width: 40%;
+  font-size: 25px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 50px;
+  color: rgb(12, 46, 12);
+
+ }
+
+ #lateral {    
+  font-size: 20px;
+  text-align: justify;
+  border-style: ridge;
+  font-size: 19px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 25px;
+  color: rgb(12, 46, 12);
+  }
+
+ .lado-direito {
+  width: 40%;
+  padding: 15px;
+  position:absolute;
+  top: 640px;
+  right: 30px;
+  
  }
 
  #rodape {
    position: relative;
    width: 100%;
-   top: 800px;
+   top: 830px;
    font-size: 19px;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    line-height: 25px;
    color: black;
+   font-size: 13px;
  }
 
